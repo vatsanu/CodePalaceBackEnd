@@ -1,1 +1,1 @@
-This repo contains all backend code related to hackathin19 event for codePalce
+This repo contains all backend code related to hackathon19 event for codePalce
